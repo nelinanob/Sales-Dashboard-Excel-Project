@@ -16,16 +16,34 @@ This project is an interactive sales performance dashboard built using Microsoft
 - Dashboard design
 
 ## Key KPIs
-- Total Sales
-- Total Orders
+- Total Sales (USD 2261536.739)
+- Total Orders (9800)
 - Distinct Customers (793)
-- Average Order Value (AOV)
+- Average Order Value (230.77)
 
 ## Insights
-- West region generated highest revenue
-- South region underperformed, indicating growth opportunities
-- Furniture category contributed highest sales
-- Interactive filters allow dynamic data exploration
+Business Insight 
+The sales dashboard analysis revealed performance trends across regions, categories and customer behaviour.
+
+Regional Performance
+- The West region generated the highest revenue, contributing approximately 31.4% of Total Sales. 
+- The South region generated the lowest revenue suggesting opportunities for marketing or promotional campaigns.
+- Regional disparities highlight the need for localized strategies and targeted initiatives in the region.
+  
+Product Category Performance
+- Furniture Category topped Sales, depicting crucial demand for high-value products.
+- Office supplies recorded relatively lower revenue which may indicate lower market demand or low prices. 
+- Further analysis of customer patterns could optimize product strengths.
+
+Customer Behaviour
+- Distinct customer count of 793 indicates a solid customer base but also room for growth.
+- Average Order Value of 230.77 suggests that there is room to increase revenue per order using upselling strategies or other.
+- Customer segmentation analysis could yield more information on purchasing trends.
+
+Recommendations
+- Initiate targeted marketing strategies based on performance trends.
+- Analyse low performing categories on pricing and adjustments.
+- Customer insights can be used effectively to develop data-driven decisions. 
 
 ## Skills Demonstrated
 - Data analysis
@@ -34,7 +52,7 @@ This project is an interactive sales performance dashboard built using Microsoft
 - Excel pivot analytics
 
 ## Future Improvements
-- Add automation using Power BI
+- Add automation 
 - Enhance data segmentation
 - Implement predictive insights
 
